@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+
+*{
+  background-color: black;
+  font-family: 'Comfortaa', cursive;
+}
+
+.comingsoon{
+  text-align:center;
+  color:white;
+  margin-top:15rem;
+}
